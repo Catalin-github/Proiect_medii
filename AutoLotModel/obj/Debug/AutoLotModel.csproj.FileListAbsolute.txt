@@ -1,0 +1,12 @@
+C:\medii_programare\AutoLotModel\bin\Debug\AutoLotModel.dll.config
+C:\medii_programare\AutoLotModel\bin\Debug\AutoLotModel.dll
+C:\medii_programare\AutoLotModel\bin\Debug\AutoLotModel.pdb
+C:\medii_programare\AutoLotModel\bin\Debug\EntityFramework.dll
+C:\medii_programare\AutoLotModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\medii_programare\AutoLotModel\bin\Debug\EntityFramework.xml
+C:\medii_programare\AutoLotModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\medii_programare\AutoLotModel\obj\Debug\AutoLotModel.csproj.AssemblyReference.cache
+C:\medii_programare\AutoLotModel\obj\Debug\AutoLotModel.csproj.CoreCompileInputs.cache
+C:\medii_programare\AutoLotModel\obj\Debug\AutoLotModel.csproj.CopyComplete
+C:\medii_programare\AutoLotModel\obj\Debug\AutoLotModel.dll
+C:\medii_programare\AutoLotModel\obj\Debug\AutoLotModel.pdb
